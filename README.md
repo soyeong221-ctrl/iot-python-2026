@@ -434,5 +434,17 @@ IoT 개발자 파이썬 리포지토리
 - VLC
     - 영상처리 쪽 코덱이 필요    
     - https://www.videolan.org/vlc/index.ko.html
+    - https://livecodec.co.kr/
 
 - OpenCV 간단 이미지에디터
+
+    - 대비/밝기, 블러, 엣지, 회전, 이진화 기능, 이미지 로드/저장
+    - 실행화면
+
+    ![alt text](image-15.png)
+
+
+## 6일차
+
+
+### 실시간 웹캠 처리
